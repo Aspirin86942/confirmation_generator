@@ -1,0 +1,4 @@
+comtypes==1.1.10
+lxml==4.6.3
+python-docx==0.8.11
+xlrd==2.0.1
